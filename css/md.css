@@ -6,6 +6,11 @@
   .detail p {
     width: auto !important;
   }
+
+  #slide {
+    padding: 150px 0 !important;
+    background-size: cover;
+  }
 }
 @media only screen and (max-width: 992px) {
   .c5-img img {
