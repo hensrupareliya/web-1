@@ -299,7 +299,7 @@ p {
 .slider_content {
   z-index: 0;
   /* position: absolute !important; */
-  background-color: rgba(0, 0, 0, 0.7);
+  /* background-color: rgba(0, 0, 0, 0.7); */
 }
 
 .A1 img {
